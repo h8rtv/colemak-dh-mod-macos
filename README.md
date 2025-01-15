@@ -7,10 +7,10 @@ apply the DH mod to the original Colemak.
 
 ## TODO
 
-[ ] Test to see if this is correct.
-[ ] Test to see if this is actually better than the official ones (I don't have a MacOS right now). 
-[ ] Do for other dh mods.
-[ ] Send a PR for the official ColemakDH mod if valuable.
+- [ ] Test to see if this is correct.
+- [ ] Test to see if this is actually better than the official ones (I don't have a MacOS right now). 
+- [ ] Do for other dh mods.
+- [ ] Send a PR for the official ColemakDH mod if valuable.
 
 ## License
 
