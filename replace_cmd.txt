@@ -1,0 +1,16 @@
+
+# Colemak -> ColemakDH
+G -> ? :%s/code="17"/code="?"/g
+B -> G :%s/code="11"/code="17"/g
+Z -> B :%s/code="6"/code="11"/g
+X -> Z :%s/code="7"/code="6"/g
+C -> X :%s/code="8"/code="7"/g
+D -> C :%s/code="5"/code="8"/g
+? -> D :%s/code="?"/code="5"/g
+
+H -> ? :%s/code="4"/code="?"/g
+M -> H :%s/code="46"/code="4"/g
+? -> M :%s/code="?"/code="46"/g
+
+
+%s/code="17"/code="?"/g | %s/code="11"/code="17"/g | %s/code="6"/code="11"/g | %s/code="7"/code="6"/g | %s/code="8"/code="7"/g | %s/code="5"/code="8"/g | %s/code="?"/code="5"/g | %s/code="4"/code="?"/g | %s/code="46"/code="4"/g | %s/code="?"/code="46"/g
