@@ -434,7 +434,7 @@
 			<key code="36" output="&#xD;" />
 			<key code="37" action="a127" />
 			<key code="38" output="&#xF1;" />
-			<key code="39" action="a1" />
+			<key code="39" action="a113" />
 			<key code="40" action="a141" />
 			<key code="41" action="a83" />
 			<key code="42" action="a15" />
