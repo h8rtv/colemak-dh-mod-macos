@@ -10,7 +10,7 @@ apply the DH mod to the original Colemak.
 - [ ] Do for other dh mods.
 - [ ] Send a PR for the official ColemakDH mod if valuable.
 
-## License
+## Installation
 
 [Same as the original Colemak.](https://colemak.com/Mac). Just use the `ColemakDH.keylayout` file instead.
 
